@@ -83,7 +83,7 @@ alias: (Opcional) Nombre o apodo del ciudadano.
 
 detalles: Objeto dinámico (Mapa) que contiene las respuestas del formulario diferenciado.
 
-|TExto|Texto|TExto|
+|Mapa de Calor|Reportes|Modulo de Ayuda|
 |:---:|:---:|:---:|
 |![](https://github.com/user-attachments/assets/f117fc10-9993-4d78-9734-92efdd320e7a)|![](https://github.com/user-attachments/assets/efffefba-1b28-41bb-a4c6-78605ea8539f)|![](https://github.com/user-attachments/assets/4be6c2d1-b6e8-4354-96f3-81ac749fa96f)|
 
