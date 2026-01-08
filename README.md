@@ -82,3 +82,6 @@ fechaRegistro: Fecha y hora exacta de la creación del reporte (Server Timestamp
 alias: (Opcional) Nombre o apodo del ciudadano.
 
 detalles: Objeto dinámico (Mapa) que contiene las respuestas del formulario diferenciado.
+
+|TExto|Texto|TExto|
+|:---:|:---:|:---:|
