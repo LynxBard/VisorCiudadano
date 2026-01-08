@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Para archivos guardados en context.cacheDir (Interna) -->
+    <cache-path name="my_internal_images" path="." />
+
+    <!-- Para archivos guardados en context.externalCacheDir (Externa) -->
+    <external-cache-path name="my_external_images" path="." />
+
+    <!-- Para archivos en filesDir -->
+    <files-path name="my_files" path="." />
+</paths>

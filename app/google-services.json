@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972773016252",
+    "project_id": "visorciudadano-6a735",
+    "storage_bucket": "visorciudadano-6a735.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972773016252:android:46a4f7a9f8a0fe129106b9",
+        "android_client_info": {
+          "package_name": "com.example.visorciudadano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSpIK3tCEfI379_ffPZlCOgzxfCOyNvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
